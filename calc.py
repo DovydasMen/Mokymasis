@@ -10,4 +10,6 @@ def prod(x: int,y: int) -> int:
 def div(x: int,y: int) -> int:
     return x // y
 
-print("Hello Dovydas")
+print("Hello Dovydas ar gavai konfilktą?")
+
+print("Olegai, viską gavau, įdomiai saveikauja")
