@@ -13,3 +13,5 @@ def div(x: int,y: int) -> int:
 print("Hello Dovydas ar gavai konfilktą?")
 
 print("Olegai, viską gavau, įdomiai saveikauja")
+
+print("Konflikto negavau, tik atsiunciau su komanda 'git pull' ir viska pamaciau ka istaisei")
